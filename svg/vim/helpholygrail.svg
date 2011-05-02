@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+viewBox = "0 0 5000 600" preserveAspectRatio="none">
+<!--
+ 
+	Displays :
+			:help holy-grail
+ 
+-->
+  <text x="100" y="400" fill="#000000" style="font-weight:bold;font-family:Courier;font-size:500">:help holy-grail</text>
+</svg>
