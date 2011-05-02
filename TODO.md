@@ -14,5 +14,9 @@ TODO
 	:help bar
 
 	:Sex
-	 
 
+    rm -rf / 
+	 
+    21 is only half the truth.
+
+    dos2unix me
